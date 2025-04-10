@@ -119,7 +119,7 @@ input[type="text"] {
 /* The alert message box */
 .Won {
   padding: 20px;
-  background-color: #7cc958; /* Green */
+  background-color: #6667AB; /* purple */
   color: white;
   width: 500px;
   margin: auto;
@@ -129,7 +129,7 @@ input[type="text"] {
 
 .Lost {
   padding: 20px;
-  background-color: #db6d6d; /* Green */
+  background-color: #6667AB; /* purple */
   color: white;
   width: 500px;
   margin: auto;
