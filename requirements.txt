@@ -18,3 +18,4 @@ scikit-learn
 dill
 keras
 wordcloud
+opencv-python
